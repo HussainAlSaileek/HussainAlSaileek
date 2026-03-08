@@ -4,8 +4,8 @@
 - 🌱 I'm currently learning Java & advanced C to help me with working in the Semiconductors, RFIC, Embedded Systems & IoT fields.
 
 ## Reach Me
-You can reach me on LinkedIn by searching "Hussain AlSaileek حسين الصعيليك" or this link down below, i would be happy to connect!
-LinkedIn: https://www.linkedin.com/in/hussain-alsaileek-%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%B9%D9%8A%D9%84%D9%8A%D9%83-181320325/
+- You can reach me on LinkedIn by searching "Hussain AlSaileek حسين الصعيليك" or this link down below, i would be happy to connect!
+- LinkedIn: https://www.linkedin.com/in/hussain-alsaileek-%D8%AD%D8%B3%D9%8A%D9%86-%D8%A7%D9%84%D8%B5%D8%B9%D9%8A%D9%84%D9%8A%D9%83-181320325/
 
 <!--
 **HussainAlSaileek/HussainAlSaileek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
